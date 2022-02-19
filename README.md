@@ -1,6 +1,11 @@
 Tray
 ----
 
+This repo is actually forked from zserge/tray. The modifications are:
+
+- Added icon path for macOS
+- Added template icon settings for macOS
+
 Cross-platform, single header, super tiny C99 implementation of a system tray icon with a popup menu.
 
 Works well on:
